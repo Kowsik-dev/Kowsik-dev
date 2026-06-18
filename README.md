@@ -75,7 +75,7 @@ An AI-powered bilingual legal assistance platform designed to simplify legal gui
 
 💻 GitHub: https://github.com/Kowsik-dev
 
-💼 LinkedIn: Add your actual LinkedIn profile URL
+💼 LinkedIn: https://www.linkedin.com/in/kowsik-guru-6aa9b2373/
 
 📧 Email: kowsik.g.dev@gmail.com
 
